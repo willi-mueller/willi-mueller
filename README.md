@@ -14,7 +14,7 @@ Case studies and write-ups in [our blog](https://untitleddata.company/blog).
 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/willi-mueller/)
 
 ## My Favourite Open-Source Contributions
-- [`dlt.sources.rest_api`](https://dlthub.com/docs/tutorial/rest-api) – dlt is a library to load data from unexpected places. The REST API source is a toolkit to build source connectors to almost any REST API quickly.
+- [`dlt.sources.rest_api`](https://dlthub.com/docs/tutorial/rest-api) – dlt is a library to load data from unexpected places. The REST API source is a toolkit to build source connectors to almost any REST API quickly. I helped as a design partner and code contributor.
 - dlt verified sources for [Airtable](https://github.com/dlt-hub/verified-sources/pull/218) and [Bing Webmaster](https://github.com/dlt-hub/verified-sources/pull/335)
 - [dbt-exasol: tracking hard deletes in snapshots (SCD 2)](https://github.com/tglunde/dbt-exasol/pull/20)
 
