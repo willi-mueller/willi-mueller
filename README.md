@@ -26,9 +26,6 @@ Case studies and write-ups in [our blog](https://untitleddata.company/blog).
 - 2017: M.Sc and B.Sc in IT-Systems Engineering from Hasso Plattner Institute, Germany's highest-ranked Computer Science Program
 - 2014: Two semesters at UFMG Belo Horizonte, Brazil's highest-ranked Computer Science Program
 
-## My Background
-- Born and grew up in Berlin, Germany in 1991
-- Have been living in Germany, Brazil, and India
 
 ## My Interests Outside Of Data
 - 🤸 Gymnastics 💪
