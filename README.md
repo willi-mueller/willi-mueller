@@ -24,6 +24,7 @@ Case studies and write-ups in [our blog](https://untitleddata.company/blog).
 
 ## My Education
 - 2017: M.Sc and B.Sc in IT-Systems Engineering from Hasso Plattner Institute, Germany's highest-ranked Computer Science Program
+- 2015: Design Thinking Advanced Track at HPI D-School, Potsdam
 - 2014: Two semesters at UFMG Belo Horizonte, Brazil's highest-ranked Computer Science Program
 
 
